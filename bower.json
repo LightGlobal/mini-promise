@@ -1,0 +1,21 @@
+{
+  "name": "mini-promise",
+  "version": "0.0.1",
+  "author": {
+    "name": "derek",
+    "email": "huihuiip@gmail.com"
+  },
+  "description": "mini promise without function of catching excetion",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "example",
+    "test",
+    "tests"
+  ]
+}
